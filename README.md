@@ -1,2 +1,2 @@
 # rest-assured
-API automation
+API automation testing
